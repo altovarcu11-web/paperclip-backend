@@ -1,0 +1,9 @@
+db/
+data/
+logs/
+telemetry/
+secrets/
+workspaces/
+**/codex-home/
+**/.tmp/
+projects/
