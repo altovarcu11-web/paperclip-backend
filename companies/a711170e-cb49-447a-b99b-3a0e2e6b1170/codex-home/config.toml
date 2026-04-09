@@ -1,5 +1,0 @@
-[projects."/Users/jav"]
-trust_level = "trusted"
-
-[plugins."canva@openai-curated"]
-enabled = true
